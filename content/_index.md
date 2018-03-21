@@ -9,3 +9,4 @@ This demo was created by Rachel Weil. It's a stripped down version of the websit
 To get the most out of your new Hugo blog, check out the [Hugo docs](http://docs.gohugo.io).
 
 You can check out Rachel's website, [No Bad Memories](http://www.nobadmemories.com) or find her on [GitHub](http://github.com/hxlnt) or [twitter](http://www.twitter.com/partytimehxlnt).
+Test change!
